@@ -1,3 +1,0 @@
-/home/nalaka/Desktop/CO524/Pthread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/nalaka/Desktop/CO524/Pthread/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/nalaka/Desktop/CO524/Pthread/cmake-build-debug/CMakeFiles/Pthread.dir
