@@ -1,2 +1,4 @@
+#!/usr/bin/env bash
 gcc -o pthrd pthrd.c -lpthread
-#./pthrd
+./pthrd
+#var=$(./pthrd) && echo var
